@@ -1,0 +1,7 @@
+# username:password
+alice:BYNdCesZqW
+bob:jw2ueICLvT
+charlie:G5vCxkVV3m
+flag:PB{publ1c_f1l3s_dir3ct0ry_huh}
+eve:zo4mJWyNj2
+mallory:9urtcpzBmH
