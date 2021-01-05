@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome!</title>
+</head>
+<body>
+    <a href="https://youtu.be/1BVPmUuZSlU" style="font-size:36px;" target="_blank">Итальянский сыр</a><br><br>
+    {{completed_captchas}} out of {{total_captchas}}
+    <img src="{{captcha_url}}" />
+    <form method="POST" action="/send_captcha">
+        <input type="number" name="ans" /><br>
+        <button type="submit">Как быстры мои лапищи</button>
+    </form>
+</body>
+</html>
