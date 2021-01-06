@@ -1,3 +1,0 @@
-Task: Is it CTF?
-Legend: CTF это не про программирование. Наберите 50 очков на https://flappybird.io и отправьте скриншот t.me/okryl.
-Flag: PB{l0l_d1dnt_even_swe4t}
