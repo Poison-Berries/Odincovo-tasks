@@ -1,8 +1,0 @@
-Task: Matreshka 
-Legend: Моя любимая игрушка...
-Write-up: 
-1. Replace 'O' to '0'
-2. Decode from binary to text
-3. Decode from Base64 to text
-4. Decode from hex to text
-Flag: PB{l0v3ly_ru5514n_t0y}
