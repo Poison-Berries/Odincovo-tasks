@@ -1,0 +1,6 @@
+Task: Forgotten
+Legend: Тот самый старший брат, обделенный вниманием. Хоть кто-нибудь вспомнит?...
+:dTLcD-o#)C+sEZ?Z[u/GqaA*I/
+Write-up:
+Decode with Base85
+Flag: PB{4m_1_j0k3_t0_y0u?}
