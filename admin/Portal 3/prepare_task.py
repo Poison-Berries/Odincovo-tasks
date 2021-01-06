@@ -1,7 +1,7 @@
 import os, pathlib
 from random import randint
 
-FLAG="PB{w3l1_u_found_GLaDOS}"
+FLAG="PB{w3lL_u_found_GLaDOS}"
 
 FLAG1="PB{Ap3rtur3 Sc13nc3 H@ndh3ld P0rt@l D3v1c3 s0 c00l}"
 FLAG2="PB{p0tat03s_wi11_ki11_us!!!}"
