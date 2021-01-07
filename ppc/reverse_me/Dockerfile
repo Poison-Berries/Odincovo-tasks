@@ -4,8 +4,7 @@ RUN apt update && apt install ncat --assume-yes
 
 WORKDIR /app
 
-COPY dictionary.txt ./
-COPY listener.py ./
+COPY task_source/dictionary.txt task_source/listener.py ./
 
 EXPOSE 4444
 
