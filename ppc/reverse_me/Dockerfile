@@ -8,4 +8,4 @@ COPY task_source/dictionary.txt task_source/listener.py ./
 
 EXPOSE 4444
 
-CMD ["ncat", "-kl", "4444", "-e", "listener.py"]
+CMD ["bash", "-c", "for((;;)); do ncat -kl 4444 -e listener.py; done"]
